@@ -123,8 +123,8 @@ prices_df = yf.download(tickers, start='2019-01-01', end='2023-12-31')['Adj Clos
 
 ## About
 
-**Rupesh Jha** — Data Scientist | BSc Mathematics | MBA (International Business)
+**Rupesh Jha** — Data Scientist | MSc Mathematics | MBA (International Business)
 
-Mathematical foundations from BSc Mathematics applied to quantitative finance. Demonstrating how core statistical concepts — probability distributions, regression, simulation — translate directly to real-world financial analysis.
+Mathematical foundations from MSc Mathematics applied to quantitative finance. Demonstrating how core statistical concepts — probability distributions, regression, simulation — translate directly to real-world financial analysis.
 
 **GitHub:** github.com/rupesh-jha-data
