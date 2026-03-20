@@ -128,3 +128,12 @@ prices_df = yf.download(tickers, start='2019-01-01', end='2023-12-31')['Adj Clos
 Mathematical foundations from MSc Mathematics applied to quantitative finance. Demonstrating how core statistical concepts — probability distributions, regression, simulation — translate directly to real-world financial analysis.
 
 **GitHub:** github.com/rupesh-jha-data
+## Academic References
+
+### Project methodology informed by:
+**Portfolio Optimisation & Monte Carlo:**
+- Shaw, W.T. (2010). Monte Carlo Portfolio Optimization for General 
+  Investor Risk-Return Objectives. arXiv:1008.3718
+- Geometric Brownian Motion price simulation methodology per 
+  IEEE Monte Carlo Simulation Prediction of Stock Prices (2022)
+
